@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f8cb87c-cbca-4220-95b1-b2244dccb3d9" name="Changes" comment="webapp">
+    <list default="true" id="5f8cb87c-cbca-4220-95b1-b2244dccb3d9" name="Changes" comment="add line splitter">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,7 @@
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
     "WebServerToolWindowFactoryState": "false",
-    "com.google.cloudcode.ide_session_index": "20230824_0011",
+    "com.google.cloudcode.ide_session_index": "20230824_0014",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
     "last_opened_file_path": "/home/shehan/Desktop/Circulars/webapp build",
@@ -95,6 +95,8 @@
       <workItem from="1692848661057" duration="30000" />
       <workItem from="1692848725039" duration="40000" />
       <workItem from="1692849049556" duration="918000" />
+      <workItem from="1692856370452" duration="44000" />
+      <workItem from="1692863891275" duration="9000" />
     </task>
     <task id="LOCAL-00001" summary="fixed char bar isues">
       <created>1692694066419</created>
@@ -222,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692849364060</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="add line splitter">
+      <created>1692856393526</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1692856393526</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -248,7 +257,8 @@
     <MESSAGE value="fixed chat issue" />
     <MESSAGE value="change ui" />
     <MESSAGE value="webapp" />
-    <option name="LAST_COMMIT_MESSAGE" value="webapp" />
+    <MESSAGE value="add line splitter" />
+    <option name="LAST_COMMIT_MESSAGE" value="add line splitter" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>

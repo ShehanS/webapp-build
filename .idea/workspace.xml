@@ -44,7 +44,7 @@
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
     "WebServerToolWindowFactoryState": "false",
-    "com.google.cloudcode.ide_session_index": "20230828_0004",
+    "com.google.cloudcode.ide_session_index": "20230828_0006",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
     "last_opened_file_path": "/home/shehan/Desktop/Circulars/webapp build",
@@ -102,6 +102,7 @@
       <workItem from="1692941877881" duration="13000" />
       <workItem from="1693211643757" duration="605000" />
       <workItem from="1693212376779" duration="596000" />
+      <workItem from="1693219259922" duration="546000" />
     </task>
     <task id="LOCAL-00001" summary="fixed char bar isues">
       <created>1692694066419</created>
@@ -285,7 +286,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693212555649</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="add mode selection">
+      <created>1693219266603</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1693219266603</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f8cb87c-cbca-4220-95b1-b2244dccb3d9" name="Changes" comment="add operation_manual">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5f8cb87c-cbca-4220-95b1-b2244dccb3d9" name="Changes" comment="add mode selection" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +42,7 @@
     &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.google.cloudcode.ide_session_index&quot;: &quot;20230824_0018&quot;,
+    &quot;com.google.cloudcode.ide_session_index&quot;: &quot;20230828_0001&quot;,
     &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
     &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;/home/shehan/Desktop/Circulars/webapp build&quot;,
@@ -100,6 +98,7 @@
       <workItem from="1692864510200" duration="430000" />
       <workItem from="1692872074531" duration="802000" />
       <workItem from="1692941877881" duration="13000" />
+      <workItem from="1693211643757" duration="605000" />
     </task>
     <task id="LOCAL-00001" summary="fixed char bar isues">
       <created>1692694066419</created>
@@ -262,7 +261,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692872335628</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="add mode selection">
+      <created>1693211687961</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1693211687962</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -290,7 +296,8 @@
     <MESSAGE value="webapp" />
     <MESSAGE value="add line splitter" />
     <MESSAGE value="add operation_manual" />
-    <option name="LAST_COMMIT_MESSAGE" value="add operation_manual" />
+    <MESSAGE value="add mode selection" />
+    <option name="LAST_COMMIT_MESSAGE" value="add mode selection" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>

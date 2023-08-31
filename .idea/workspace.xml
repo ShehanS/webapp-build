@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f8cb87c-cbca-4220-95b1-b2244dccb3d9" name="Changes" comment="add date" />
+    <list default="true" id="5f8cb87c-cbca-4220-95b1-b2244dccb3d9" name="Changes" comment="disable env selection and model selection">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +44,7 @@
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
     "WebServerToolWindowFactoryState": "false",
-    "com.google.cloudcode.ide_session_index": "20230829_0003",
+    "com.google.cloudcode.ide_session_index": "20230831_0002",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
     "last_opened_file_path": "/home/shehan/Desktop/Circulars/webapp build",
@@ -104,6 +106,7 @@
       <workItem from="1693220969986" duration="683000" />
       <workItem from="1693278800958" duration="18000" />
       <workItem from="1693282017714" duration="442000" />
+      <workItem from="1693482654493" duration="463000" />
     </task>
     <task id="LOCAL-00001" summary="fixed char bar isues">
       <created>1692694066419</created>
@@ -308,7 +311,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693282033845</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="disable env selection and model selection">
+      <created>1693482687151</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1693482687151</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -339,7 +349,8 @@
     <MESSAGE value="add mode selection" />
     <MESSAGE value="fix initials issue" />
     <MESSAGE value="add date" />
-    <option name="LAST_COMMIT_MESSAGE" value="add date" />
+    <MESSAGE value="disable env selection and model selection" />
+    <option name="LAST_COMMIT_MESSAGE" value="disable env selection and model selection" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>

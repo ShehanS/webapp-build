@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f8cb87c-cbca-4220-95b1-b2244dccb3d9" name="Changes" comment="enable new topic">
+    <list default="true" id="5f8cb87c-cbca-4220-95b1-b2244dccb3d9" name="Changes" comment="set env as cbsl">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,7 @@
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
     "WebServerToolWindowFactoryState": "false",
-    "com.google.cloudcode.ide_session_index": "20230908_0001",
+    "com.google.cloudcode.ide_session_index": "20230918_0001",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
     "last_opened_file_path": "/home/shehan/Desktop/Circulars/webapp build",
@@ -111,6 +111,7 @@
       <workItem from="1693536370765" duration="53000" />
       <workItem from="1693845490311" duration="47000" />
       <workItem from="1694194748286" duration="628000" />
+      <workItem from="1695024655470" duration="154000" />
     </task>
     <task id="LOCAL-00001" summary="fixed char bar isues">
       <created>1692694066419</created>
@@ -350,7 +351,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694194767527</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="set env as cbsl">
+      <created>1695024682917</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1695024682917</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -384,7 +392,8 @@
     <MESSAGE value="disable env selection and model selection" />
     <MESSAGE value="enable env" />
     <MESSAGE value="enable new topic" />
-    <option name="LAST_COMMIT_MESSAGE" value="enable new topic" />
+    <MESSAGE value="set env as cbsl" />
+    <option name="LAST_COMMIT_MESSAGE" value="set env as cbsl" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
